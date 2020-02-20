@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.section {
+
+   margin-bottom: 5%;
+}
+    
+
+.upperinner {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: black;
+    
+    color:white;
+    
+    font-size: 50px;
+    text-align:center;
+    
+    
+}
+.upperinner:hover {
+    color: red;
+    font-size: 70px;
+}
+.history {
+    border: 1px solid black;
+    float: left;
+    width: 40%;
+    margin: 30px;
+   padding: 0px 10px;
+   height: 500px;
+    
+    
+}
+h1{
+    padding: 2%;
+}
+h1:hover{
+    font-size: 50px;
+    color: red;
+    background-image: url(image/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+   
+    
+} 
+.give {
+    border: 20px double black;
+    margin: 30px;
+    padding: 20px;
+    width: 85%;
+    background-position: center;
+    
+}
+.lastup{
+    text-align: center;
+    border: 1x solid blue;
+    background-color: skyblue;
+    color: red;
+    margin: .1% 4%;
+    
+}
+.genjam{
+    border: 1px solid rgb(3, 3, 3) ;
+    width: 30%;
+    background-color: skyblue;
+    margin: .5% 4%;
+    
+}
+.one {
+    border: 1px solid rgb(3, 3, 3) ;
+    width: 55%;
+    background-color: rgb(245, 245, 245);
+    margin: .5% 4%;
+    padding: 2%;
+    
+}
+
+.over {
+    position: relative;
+    left:33%;
+    bottom: 650px;
+    
+}
+.do{
+    height: 180px;
+    text-align: center;
+   
+}
+.done {
+    height: 280px;
+    text-align: center;
+   
+}
+.doing {
+    height: 160px;
+    text-align: center;
+}
+
+
+.boder{
+
+    border: 2px solid skyblue;
+    background-color: skyblue;
+    width: 92%;
+    margin: .4% 3.7%;
+    padding: .2%;
+
+    
+    position: relative;
+    bottom: 650px;
+}
